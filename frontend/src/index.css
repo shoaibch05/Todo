@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional Custom Styles */
+body {
+  background-color: #f7fafc; /* Tailwind's bg-gray-100 equivalent */
+  color: #1a202c; /* Tailwind's text-gray-900 equivalent */
+}
